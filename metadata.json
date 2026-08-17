@@ -1,0 +1,6 @@
+{
+  "name": "Prison Management System",
+  "description": "A comprehensive web-based Prison Management System for managing prisoner records, cell allocation, visitors, legal cases, releases, and audit reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
